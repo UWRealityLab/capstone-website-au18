@@ -1,0 +1,29 @@
+{
+    "folders":
+    [
+    	{
+            "path": ".",
+            "name": "Production",
+            "folder_exclude_patterns": ["staging", "calendar", "csenetid", "uwnetid"]
+        },
+        {
+            "path": "staging",
+            "name": "Staging"
+        },
+        {
+        	"path": "csenetid",
+        	"name": "Login"
+        }
+    ],
+    "settings":
+    {
+        "tab_size": 4
+    },
+    "build_systems":
+    [
+        {
+            "name": "Publish",
+            "cmd": ["rsync", "-avhO", "--no-perms", "$project_path/staging/", "$project_path/"]
+        }
+    ]
+}

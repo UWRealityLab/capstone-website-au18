@@ -1,0 +1,444 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"animation",
+				"animation-direction\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "staging/calendar.php",
+			"settings":
+			{
+				"buffer_size": 62008,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "staging/deliver.php",
+			"settings":
+			{
+				"buffer_size": 15401,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "staging/index.php",
+			"settings":
+			{
+				"buffer_size": 15195,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "staging/res/css/style.css",
+			"settings":
+			{
+				"buffer_size": 10616,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/egordon/remote/cse481v/staging",
+		"/home/egordon/remote/cse481v/staging/res",
+		"/home/egordon/remote/cse481v/staging/res/img",
+		"/home/egordon/remote/cse481v/staging/res/img/carousel"
+	],
+	"file_history":
+	[
+		"/home/egordon/remote/cse481v/res/css/style.css",
+		"/home/egordon/remote/.courses/cse481v/18au/staging/deliver.php",
+		"/home/egordon/remote/.courses/cse481v/18au/staging/speakers.php",
+		"/home/egordon/remote/.courses/cse481v/18au/staging/calendar.php",
+		"/home/egordon/remote/cse481v/res/css/speak.css",
+		"/home/egordon/remote/cse481v/staging/res/css/cal.css",
+		"/home/egordon/remote/cse481v/staging/calendar.php",
+		"/home/egordon/remote/cse481v/staging/speakers.php",
+		"/home/egordon/remote/cse481v/staging/index.php",
+		"/home/egordon/remote/.courses/cse481v/18au/staging/teams.php",
+		"/home/egordon/remote/.courses/cse481v/18au/staging/links.php",
+		"/home/egordon/remote/.courses/cse481v/18au/staging/index.php",
+		"/home/egordon/remote/.courses/cse481v/18au/staging/ideas.php",
+		"/home/egordon/remote/.courses/cse481v/18au/staging/res/css/cal.css",
+		"/home/egordon/remote/cse481v/staging/deliver.php",
+		"/home/egordon/remote/cse481v/staging/ideas.php",
+		"/home/egordon/remote/cse481v/speakers.php",
+		"/home/egordon/remote/cse481v/staging/links.php",
+		"/home/egordon/remote/cse481v/staging/res/css/style.css",
+		"/home/egordon/remote/cse481v/staging/calendar",
+		"/home/egordon/remote/cse481v/staging/index.html",
+		"/home/egordon/remote/cse481v/cse481v.sublime-project"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"caret",
+			"<span ",
+			"<i ",
+			"font awesome",
+			"carousel",
+			"Demo Video",
+			"indent",
+			" p",
+			"November",
+			">5<",
+			"RPD",
+			".days li",
+			".day ",
+			".day",
+			"day",
+			"1:00pm to 2:00pm",
+			"Xuan",
+			"- ",
+			"-",
+			"October",
+			"TBD",
+			"our ",
+			"calendar",
+			"!import",
+			"!important",
+			"min-height",
+			"Lecture",
+			"lecture",
+			"Lecture",
+			"LEcture",
+			"Lecture",
+			"calendar-wrap",
+			"45",
+			"width",
+			"7",
+			"Hello"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "staging/calendar.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 62008,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								59676,
+								59676
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 23347.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "staging/deliver.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15401,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12943,
+								12943
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3569.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "staging/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15195,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12474,
+								12474
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3803.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "staging/res/css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10616,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6945,
+								6945
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2317.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 73.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 120.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "cse481v.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"style.css",
+				"Staging/res/css/style.css"
+			],
+			[
+				".css",
+				"Production/res/css/style.css"
+			],
+			[
+				"index",
+				"Staging/index.php"
+			],
+			[
+				"deliver",
+				"Staging/deliver.php"
+			],
+			[
+				"calendar",
+				"Staging/calendar.php"
+			],
+			[
+				"deliv",
+				"Staging/deliver.php"
+			],
+			[
+				"speakers",
+				"Staging/speakers.php"
+			],
+			[
+				"css",
+				"Production/res/css/speak.css"
+			],
+			[
+				"cal.",
+				"Staging/res/css/cal.css"
+			],
+			[
+				"calen",
+				"Staging/calendar.php"
+			],
+			[
+				"teams",
+				"Staging/teams.php"
+			],
+			[
+				"cal.css",
+				"Staging/res/css/cal.css"
+			],
+			[
+				"speak",
+				"Production/speakers.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 287.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

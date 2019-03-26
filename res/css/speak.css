@@ -1,0 +1,37 @@
+.imgbox img {
+	float: left;
+	max-width: 250px;
+	padding: 20px;
+	padding-top: 0;
+}
+
+.imgbox-st img {
+	max-width: 250px;
+	padding: 20px;
+	
+}
+
+.content p {
+	font-size: 16px;
+	text-indent: 4em;
+}
+
+.header {
+	cursor: pointer;
+}
+
+.content {
+	margin-bottom: 30px;
+}
+
+@media(max-width:767px) {
+	.imgbox {
+		margin: auto;
+		width: 100%;
+		text-align: center;
+	}
+
+	.imgbox img {
+		float: none;
+	}
+}
